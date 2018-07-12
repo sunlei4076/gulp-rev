@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
   "license": "MIT",
-  "repository": "https://github.com/sunlei4076/gulp-rev",
+  "repository": "https://github.com/sunlei4076/gulp-rev/tree/v%3D",
   "author": {
     "name": "sun4076",
     "email": "973797201@qq.com"
